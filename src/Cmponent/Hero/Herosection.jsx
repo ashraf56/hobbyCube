@@ -29,8 +29,7 @@ const Herosection = () => {
                     </div>
 
                     <div className=' d-none d-lg-flex gap-0 ' style={{ width: '50%' }}  >
-                        <img src={human1} className='img-fluid ' />
-                        <img src={human2} className='img-fluid ' />
+                      
 
                     </div>
                 </div>
@@ -189,15 +188,7 @@ const Herosection = () => {
                         </div>
                     </div>
                     <div className=' d-block d-lg-none  ' style={{ paddingTop: '80px' }}  >
-                        <img src={human1} className='img-fluid' style={{
-                            width: '150px',
-                            height: '96px'
-                        }} />
-
-                        <img src={human2} className='img-fluid' style={{
-                            width: '150px',
-                            height: '96px'
-                        }} />
+                   
                     </div>
                 </div>
             </div>
